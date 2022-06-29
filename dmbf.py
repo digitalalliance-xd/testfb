@@ -97,7 +97,7 @@ try:
     bulan_skrng = bulan - 1
 except ValueError:
     exit()
-_bulan_ = bulan_cek[bulan_skrng]
+bulan = bulan_cek[bulan_skrng]
 tanggal = "%s-%s-%s"%(hari,_bulan_,tahun)
 
 ##### BUAT STR /LEN
