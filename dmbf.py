@@ -107,7 +107,7 @@ cp = []
 loop=0
 id2,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],[],[],[],[],[],[],[]
 cokbrut=[]
-pwpluss,pwnya=[],[]
+pwpluss,pwnya=[],[] '
 ###----------[ CLEAR TERMINAL ]---------- ###
 def resik():
     if "linux" in sys.platform.lower():
