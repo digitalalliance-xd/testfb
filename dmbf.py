@@ -3,10 +3,10 @@
 # GAK USAH DI OPRAK" LAGI,sc sudah nya enak
 # kalau lu recode data hp lu yang hilang!!
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
-Author    = ' 𝐓𝐄𝐌𝐏𝐈𝐊-𝐗𝐃'
-Facebook  = '𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤.𝐜𝐨𝐦/𝐦𝐚𝐫𝐤𝐳𝐮𝐜𝐤𝐞𝐫𝐛𝐞𝐫𝐠'
-Instagram = '𝐦𝐚𝐫𝐤𝐳𝐮𝐜𝐤𝐞𝐫𝐛𝐞𝐫𝐠'
-Whatsapp  = '085888222944'
+Author    = ' NCEK-XD'
+Facebook  = 'Facebook.com/ncek'
+Instagram = '-'
+Whatsapp  = '-'
 YouTube   = '-'
 #'Syafii  = 100080716718035
 #Postingan = 115753054458585
@@ -107,7 +107,7 @@ cp = []
 loop=0
 id2,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],[],[],[],[],[],[],[]
 cokbrut=[]
-pwpluss,pwnya=[],[] '
+pwpluss,pwnya=[],[]
 ###----------[ CLEAR TERMINAL ]---------- ###
 def resik():
     if "linux" in sys.platform.lower():
