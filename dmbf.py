@@ -3,10 +3,10 @@
 # GAK USAH DI OPRAK" LAGI,sc sudah nya enak
 # kalau lu recode data hp lu yang hilang!!
 # ------ [ Gausah Dioprek Ntar Error ] ------ #
-Author    = ' NCEK-XD'
-Facebook  = 'Facebook.com/ncek'
-Instagram = '-'
-Whatsapp  = '-'
+Author    = ' 𝐓𝐄𝐌𝐏𝐈𝐊-𝐗𝐃'
+Facebook  = '𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤.𝐜𝐨𝐦/𝐦𝐚𝐫𝐤𝐳𝐮𝐜𝐤𝐞𝐫𝐛𝐞𝐫𝐠'
+Instagram = '𝐦𝐚𝐫𝐤𝐳𝐮𝐜𝐤𝐞𝐫𝐛𝐞𝐫𝐠'
+Whatsapp  = '085888222944'
 YouTube   = '-'
 #'Syafii  = 100080716718035
 #Postingan = 115753054458585
@@ -74,13 +74,26 @@ def banner():
 	os.system('clear')
 	war_dom = random.choice([A,K,I,J,U,H])
 	print("""
-    __  _____  ____  
-   /  ]|     ||    \ 
-  /  / |   __||  o  )      AUTHOR : NCEK - XD
- /  /  |  |_  |     |      GITHUB : NCEK-XD
-/   \_ |   _] |  O  |      FB     : NCEK
-\     ||  |   |     |
- \____||__|   |_____|  V.1.3
+             ,;;;;;;;,                                      
+            ;;;;;;;;;;;,
+           ;;;;;'_____;'                                            
+           ;;;(/))))|((\\                                   
+           _;;((((((|))))
+          / |_\\\\\\\\\\\\\\
+     .--~(  \\ ~))))))))))))
+    /     \\  `\\-(((((((((((\\\
+    |    | `\\   ) |\\       /|)
+     |    |  `. _/  \\_____/ |
+      |    , `\\~            /
+       |    \\  \\           /
+      | `.   `\\|          /
+      |   ~-   `\\        /
+       \\____~._/~ -_,   (\\
+        |-----|\\   \\    ';;
+       |      | :;;;'     \\
+      |  /    |            |
+      |       |            | By Digital Alliance
+              '----"----'
  """)
 
 
