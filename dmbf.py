@@ -98,7 +98,7 @@ try:
 except ValueError:
     exit()
 _bulan_ = bulan_cek[bulan_skrng]
-tanggal = ("%s-%s-%s"%(hari,_bulan_,tahun)
+tanggal = "%s-%s-%s"%(hari,_bulan_,tahun)
 
 ##### BUAT STR /LEN
 id = []
